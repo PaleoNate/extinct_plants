@@ -9,14 +9,16 @@ Some species are known as "whole plants," whereas others are partial reconstruct
 *Instructions for browsing the list of references.*
 1) Navigate to the "paleobotany reconstructions reference" csv file
 2) you should see the entries and be able to scroll through them.
-3) Alternatively, download the file
-4) Open in excel 
+3) Alternatively, download the file.
+4) Open in MS excel or a similar application.
 5) Sort the spreadsheet by plant group, formation, period, continent, etc.
 
 *Instructions for contributing a reference to the master list.*
 1) Create a GitHub Account.
-2) Fork the repository.
-3) Edit the file to include your new reference (without commas).
-4) commit your change.
-5) submit a pull request to add you change to the master.
+2) Download GitHub Desktop.
+3) Navigate to the file in this repository. 
+4) Open the file from your browser using GitHub Desktop (use the monitor-shaped icon in upper right of the page)
+5) Edit the file to include your new reference
+6) Commit your change.
+7) Submit a pull request to add your change to the master.
 
