@@ -2,9 +2,8 @@
 This is a place for the paleobotany and paleoart communities to find references to papers with illustrations of extinct plants that are based on direct evidence from the fossil record. This spreadsheet was initally compiled by Mario Coiro, with help from Nathan Jud and Andres Elgorriaga.
 
 The spreadsheet is a comma separated file (.csv) that can be opened in excel.
-Each row represents a reconstruction of a species or community. 
+Each row represents a reconstruction of a species or plant community. 
 Some species are known as "whole plants," whereas others are partial reconstructions (for example leaves on a branch).
-To find what you are looking for, you can sort the spreadsheet by major plant groups, formation, continent, country, era, period, and more.
 
 
 *Instructions for browsing the list of references.*
